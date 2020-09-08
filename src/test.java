@@ -11,5 +11,9 @@ public class test {
         System.out.println("test");
 
         System.out.println("吧");
+        System.out.println("吧1");
+        System.out.println("吧2");
+        System.out.println("吧3");
+        System.out.println("吧4");
     }
 }
