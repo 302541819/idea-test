@@ -15,5 +15,13 @@ public class test {
         System.out.println("吧2");
         System.out.println("吧3");
         System.out.println("吧4");
+
+        System.out.println("test1");
+        System.out.println("test1");
+        System.out.println("test32");
+        System.out.println("test5");
+        System.out.println("test5");
+        System.out.println("test1");
+>>>>>>> 6f8cac3875569a5503d7f847be534084117bd8f0
     }
 }
