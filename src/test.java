@@ -6,5 +6,8 @@ public class test {
 
 
         System.out.println("从git上拉去");
+
+
+        System.out.println("test");
     }
 }
